@@ -11,3 +11,4 @@ blah blah blah shut up
 TOKEN=Twitch IRC Token: Get from here https://twitchapps.com/tmi/
 client_id=Twitch Client ID from dev.twitch.tv
 ```
+4. run bot.py (you can launch it, or do `python bot.py` in a terminal/powershell/command prompt)
